@@ -390,7 +390,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/foldj-5-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/foldj-4-1400x989.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -401,11 +401,13 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FOLD</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FOLD</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
         },
@@ -716,7 +718,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/foldj-5-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/foldj-4-1400x989.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -727,11 +729,13 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FOLD</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FOLD</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
         },
@@ -1068,7 +1072,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/foldj-5-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/foldj-4-1400x989.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1079,11 +1083,12 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FOLD</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FOLD</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
         },
