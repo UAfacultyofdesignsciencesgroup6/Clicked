@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Verdiepingstraject",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -241,7 +241,7 @@
             "fontColor": "#f3c649",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">LEASING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">BIJDRAGE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -610,7 +610,7 @@
             "fontColor": "#f3c649",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">LEASING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">BIJDRAGE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -938,7 +938,7 @@
             "fontColor": "#f3c649",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">LEASING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">BIJDRAGE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1192,7 +1192,7 @@
           "caption2": "Vanaf je formulier bij ons aankomst starten wij met de productie van je folding object.&nbsp;",
           "title3": "Verzending",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Je object wordt geleverd en wij nemen je oude casettes terug mee. Zo blijven we onze stock steeds aanvullen ter afwachting van een nieuwe bestelling.",
+          "caption3": "Je object wordt geleverd en wij nemen je eerste lading oude casettes terug mee. Zo blijven we onze stock steeds aanvullen ter afwachting van een nieuwe bestelling.",
           "title4": "Gratis Installatie",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Onze vakmannen installeren je lamp en geven je de nodige instructies mee om deze te demonteren en te veranderen naar eigen wensen.",
@@ -1292,7 +1292,7 @@
             "fontColor": "#f3c649",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">LEASING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Product</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">BIJDRAGE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"page4.html\">BESTEL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1421,15 +1421,15 @@
             "Theme"
           ],
           "title": "Prijzen",
-          "subtitle": "Leasing niet inbegrepen.",
-          "title1": "BASIS",
+          "subtitle": "",
+          "title1": "Fold Basic",
           "title2": "BUSINESS",
-          "title3": "UITBEREIDING",
-          "title4": "LEASING",
-          "subtitle1": "Description",
+          "title3": "Fold met bijdrage",
+          "title4": "Cover",
+          "subtitle1": "Bijdrage zonder producten",
           "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
+          "subtitle3": "Prijs afhankelijk van bijdrage",
+          "subtitle4": "Nieuwe cover afzonderlijk te bestellen",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
@@ -1440,9 +1440,9 @@
           "currency4": "€",
           "price1": "",
           "price2": "0",
-          "price3": "80",
+          "price3": "",
           "price4": "20",
-          "period1": "60",
+          "period1": "80",
           "period2": "/mo.",
           "period3": "",
           "period4": "",
